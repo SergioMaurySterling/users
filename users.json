@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "684d",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:35:19.059Z"
+    },
+    {
+      "id": "46ce",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:35:36.089Z"
+    },
+    {
+      "id": "737d",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:35:42.944Z"
+    },
+    {
+      "id": "f0e9",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:37:24.834Z"
+    },
+    {
+      "id": "220e",
+      "firstName": "Sergio",
+      "lastName": "Patrick",
+      "email": "sergio@gmail.com",
+      "password": "13F2FTR",
+      "phone": "3006180256",
+      "registrationDate": "2024-04-15T17:37:44.791Z"
+    },
+    {
+      "id": "9edc",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:40:52.071Z"
+    },
+    {
+      "id": "4665",
+      "firstName": "Sergio",
+      "lastName": "Gab",
+      "email": "pse897@gmail.com",
+      "password": "4738ejss",
+      "phone": "314567989",
+      "registrationDate": "2024-04-15T17:41:15.244Z"
+    },
+    {
+      "id": "2683",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:41:37.491Z"
+    },
+    {
+      "id": "1549",
+      "firstName": "Sergio",
+      "lastName": "Mars",
+      "email": "sergio@hotmail.com",
+      "password": "3847389ejd",
+      "phone": "3176789087",
+      "registrationDate": "2024-04-15T17:41:53.954Z"
+    },
+    {
+      "id": "37a0",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:42:25.334Z"
+    },
+    {
+      "id": "bd05",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "phone": "1234567890",
+      "registrationDate": "2024-04-15T17:43:41.679Z"
+    }
+  ]
+}
